@@ -1,11 +1,11 @@
-# 🚗 Concessionária Web
+#  Concessionária Web
 
 Este projeto é um site para uma concessionária de veículos, desenvolvido com base em um wireframe responsivo.  
 O objetivo é apresentar veículos disponíveis, informações institucionais e permitir o contato com a empresa.
 
 ---
 
-## 📋 Estrutura do Projeto
+##  Estrutura do Projeto
 
 - **Home:** Apresenta os veículos em destaque e as últimas ofertas.
 - **Catálogo:** Lista de veículos com imagem, descrição e botão “Ler mais”.
@@ -15,7 +15,7 @@ O objetivo é apresentar veículos disponíveis, informações institucionais e 
 
 ---
 
-## 🧱 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Frontend:** Wireframe.cc
 - **Banco de Dados:** MySQL
@@ -23,14 +23,14 @@ O objetivo é apresentar veículos disponíveis, informações institucionais e 
 
 ---
 
-## 🧮 Estrutura de Banco de Dados
+##  Estrutura de Banco de Dados
 
 O banco de dados foi projetado com base no modelo DER a seguir, considerando as principais entidades:  
 `clientes`, `veiculos`, `vendas`, `funcionarios`, e `fornecedores`.
 
 ---
 
-## 🗺️ DER (Diagrama Entidade-Relacionamento)
+##  DER (Diagrama Entidade-Relacionamento)
 
 ```mermaid
 erDiagram
