@@ -17,8 +17,7 @@ O objetivo é apresentar veículos disponíveis, informações institucionais e 
 
 ## 🧱 Tecnologias Utilizadas
 
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Backend:** PHP / Node.js (a definir)
+- **Frontend:** Wireframe.cc
 - **Banco de Dados:** MySQL
 - **Controle de Versão:** Git & GitHub
 
